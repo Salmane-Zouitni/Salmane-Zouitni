@@ -18,5 +18,8 @@ I'm always open to collaboration and new opportunities. Feel free to reach out t
 
 - 📧 Email: salmane.zouitni@gmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/salmane-zouitni-746b37155/
+- ![image](https://github.com/Salmane-Zouitni/Salmane-Zouitni/assets/49624585/ed4c5328-6d6f-47dc-9fdd-2df9320ed2a9)
+   Telegram: https://t.me/Salmane_Zouitni
+-    Discord: 
 
 Let's connect and create something amazing together! 🚀

@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a Full Stack Software Engineer with a passion 
 ## About Me
 
 - 💻 Proficient in multiple programming languages including JavaScript,TypeScript, Python, and Java.
-- 🌐 Experienced in front-end technologies like React, Angular, and Next.js.
-- 🚀 Skilled in back-end development with Node.js, Express.
-- 🛠️ Familiar with database systems such as MySQL, PostgreSQL, MongoDB, and Firebase.
+- 🌐 Experienced in front-end technologies like React, Angular.
+- 🚀 Skilled in back-end development with Node.js, Express, Asp.NET.
+- 🛠️ Familiar with database systems such as MySQL, SqlServer, PostgreSQL, MongoDB.
 - 📦 Knowledgeable in DevOps tools like Docker, Kubernetes, and AWS.
 - 🧠 Continuously learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
